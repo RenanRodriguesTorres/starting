@@ -1,0 +1,2 @@
+# starting
+Comandos Iniciais
